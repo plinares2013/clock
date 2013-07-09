@@ -13,6 +13,8 @@ import com.google.appengine.api.users.User;
 import com.google.appengine.api.users.UserService;
 import com.google.appengine.api.users.UserServiceFactory;
 
+/* Comment added to test the Git versioning    */
+
 @SuppressWarnings("serial")
 public class ClockServlet extends HttpServlet {
     public void doGet(HttpServletRequest req,
